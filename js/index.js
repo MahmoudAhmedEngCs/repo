@@ -2,13 +2,13 @@ let y=  document.querySelector('#button');
 let rq
 let r = parseInt(Math.random() * 5);
 let z1=`<h2 class="text-center my-5"> "بحبك" </h2>
-<h2 class="text-center "> --Epictetus </h2>`
-let z2=`<h2 class="text-center my-5">  </h2>
-<h2 class="text-center "> ― Oscar Wilde </h2>`
+<h2 class="text-center ">  </h2>`
+let z2=`<h2 class="text-center my-5"> اغلي ما ليا </h2>
+<h2 class="text-center ">  </h2>`
 let z3=`<h2 class="text-center my-5"> "نور عيني" </h2>
 <h2 class="text-center "> 
  </h2>`
-let z4=`<h2 class="text-center my-5"> "كل حاجه”
+let z4=`<h2 class="text-center my-5"> "بحبك اوي”
 " </h2>
 <h2 class="text-center ">  </h2>`
 let z5=`<h2 class="text-center my-5"> "تتجوزيني" </h2>
