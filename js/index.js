@@ -1,19 +1,18 @@
 let y=  document.querySelector('#button');
 let rq
 let r = parseInt(Math.random() * 5);
-let z1=`<h2 class="text-center my-5"> "It's not what happens to you, but how you react to it that matters." </h2>
+let z1=`<h2 class="text-center my-5"> "بحبك" </h2>
 <h2 class="text-center "> --Epictetus </h2>`
-let z2=`<h2 class="text-center my-5"> "Be yourself; everyone else is already taken.
-" </h2>
+let z2=`<h2 class="text-center my-5">  </h2>
 <h2 class="text-center "> ― Oscar Wilde </h2>`
-let z3=`<h2 class="text-center my-5"> "So many books, so little time." </h2>
-<h2 class="text-center "> ― Frank Zappa
+let z3=`<h2 class="text-center my-5"> "نور عيني" </h2>
+<h2 class="text-center "> 
  </h2>`
-let z4=`<h2 class="text-center my-5"> "A room without books is like a body without a soul.”
-― William W. Purkey" </h2>
-<h2 class="text-center "> -mahmoud ahmed </h2>`
-let z5=`<h2 class="text-center my-5"> "You only live once, but if you do it right, once is enough." </h2>
-<h2 class="text-center "> ― Mae West </h2>`
+let z4=`<h2 class="text-center my-5"> "كل حاجه”
+" </h2>
+<h2 class="text-center ">  </h2>`
+let z5=`<h2 class="text-center my-5"> "تتجوزيني" </h2>
+<h2 class="text-center ">  </h2>`
 y.addEventListener('click',function(){
  
     
